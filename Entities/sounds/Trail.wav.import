@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Trail.wav-0cb0361d09f2530c70704a22f4ea2896.sample"
+
+[deps]
+
+source_file="res://Entities/sounds/Trail.wav"
+dest_files=[ "res://.import/Trail.wav-0cb0361d09f2530c70704a22f4ea2896.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
